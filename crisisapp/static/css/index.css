@@ -6,4 +6,8 @@
     font-weight: 700;
     font-style: normal;
 }
+.carousel-img{
+    object-fit: cover;
+    height: 100vh;
+}
 
