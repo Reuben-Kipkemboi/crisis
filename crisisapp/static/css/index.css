@@ -11,8 +11,20 @@
     height: 100vh;
 }
 .crisis-paragraph{
-    font-size: 4vh;
+    font-size: 5vh;
     font-weight: bolder;
-    /* color: red; */
+}
+.headline{
+    font-weight: bolder;
+}
+.donate{
+    background-color: #b43e35;
+    padding:4% 10%;
+    color: white;
+    border-radius: 1%;
+}
+.donate:hover{
+    background-color: #b43e35;
+    color:white;
 }
 
