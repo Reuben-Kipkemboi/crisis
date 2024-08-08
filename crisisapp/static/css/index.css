@@ -29,4 +29,13 @@
     background-color: #b43e35;
     color:white;
 }
+.quake-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card2-title, .card1-title, .bold-amount{
+    font-weight: bolder;
+    font-size: 3vh;
+}
 
