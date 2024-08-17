@@ -41,5 +41,10 @@
 
 .services{
     background-color: #b43e35;
+    height: 50vh;
+    color: #fff;
+}
+.p-italic{
+    font-style: italic;
 }
 
